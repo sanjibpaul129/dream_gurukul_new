@@ -194,14 +194,11 @@ nav ul li a img {
 }
 
 /* Style the Mute/Unmute button */
-.mute-button {
+/* .mute-button {
   position: absolute;
   bottom: 20px;
-  /* Adjust as needed */
   right: 20px;
-  /* Adjust as needed */
   background-color: rgba(0, 0, 0, 0.5);
-  /* Semi-transparent background */
   border: none;
   color: white;
   height: 50px;
@@ -218,7 +215,7 @@ nav ul li a img {
 
 .mute-button:hover {
   background-color: rgba(0, 0, 0, 0.7);
-}
+} */
 
 
 .about-the-project {
